@@ -1,0 +1,11 @@
+input {
+  transition: background-color 0.2s;
+}
+
+.success {
+  background-color: lightgreen;
+}
+
+.failure {
+  background-color: lightcoral;
+}
